@@ -1,4 +1,4 @@
-# Sistem Manajemen Inventaris & Distribusi Seragam (Kedai Nusaputera)
+# Sistem Manajemen Inventaris & Distribusi Seragam
 
 Aplikasi web berbasis PHP & MySQL untuk mengelola pengadaan stok seragam (PO Vendor), pendataan pengukuran siswa berdasarkan gelombang pendaftaran, kontrol stok real-time, kasir penjualan langsung, serta integrasi notifikasi WhatsApp.
 
