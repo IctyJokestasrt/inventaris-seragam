@@ -1,2 +1,6 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+uploads/
+admin/temp_nota/
+admin/libs/
+error_log
+*.log
+.DS_Store
